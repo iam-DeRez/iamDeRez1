@@ -1,3 +1,3 @@
 - 👋 Hi, I'm Mensah Michael 
-- A self taught Frontend Dev, a UX designer and a Native Android Dev
+- I'm a self taught Frontend Dev, a UX designer and a Native Android Dev
 - I like to take complex problems and turn them into beautiful intuitive experiences 💙. 
